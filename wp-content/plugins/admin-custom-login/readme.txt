@@ -1,10 +1,10 @@
-=== Admin Custom Login ===
+﻿=== Admin Custom Login ===
 Contributors: weblizar
 Donate link: https://www.weblizar.com/
 Tags: custom login page, custom admin login, custom login, customize wordpress login page, design wordpress login
 Requires at least: 4.0
-Tested up to: 5.1
-Stable tag: 2.8.4
+Tested up to: 5.1.1
+Stable tag: 2.8.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -172,6 +172,14 @@ If you have any question contact us at here: [Plugin Support Forum ](http://word
 
 For more information, see [Weblizar](http://www.weblizar.com/)
 
+= 2.8.6 =
+* LetestFont Awesome 5.8.1 Updated
+* Minor issue is fixed
+
+= 2.8.5 =
+* Minor issue fixed
+* version update + Compatible with wordpress 5.1.1
+* Compatible with php7 
 
 = 2.8.4 =
 * Minor issue fixed

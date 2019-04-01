@@ -441,7 +441,7 @@ function acl_export_settings() {
 		'tagline_msg' 				=> $tagline_msg,
 		'user_cust_lbl'				=> $user_cust_lbl,
 		'pass_cust_lbl' 			=> $pass_cust_lbl,
-		'$label_username'			=> $label_username,
+		'label_username'			=> $label_username,
 		'label_password'			=> $label_password,
 		'label_loginButton'			=> $label_loginButton,
 

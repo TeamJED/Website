@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Admin Custom Login 
- * Version: 2.8.4
+ * Version: 2.8.6
  * Description: Customize Your WordPress Login Screen Amazingly - Add Own Logo, Add Social Profiles, Login Form Positions, Background Image Slide Show
  * Author: Weblizar
  * Author URI: https://weblizar.com/plugins/
@@ -14,7 +14,7 @@
 if ( ! defined( 'ABSPATH' ) ) exit;
 define("WEBLIZAR_NALF_PLUGIN_URL", plugin_dir_url(__FILE__));
 define("WEBLIZAR_ACL_PLUGIN_DIR_PATH_FREE", plugin_dir_path(__FILE__));
-define("WEBLIZAR_ACL", "admin-custom-login", true);
+define("WEBLIZAR_ACL", "admin-custom-login");
 
 final class WL_ACL_FREE {
     private static $instance = null;

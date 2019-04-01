@@ -32,7 +32,7 @@ $acl_bg_imgpath =  WEBLIZAR_NALF_PLUGIN_URL."images/bg.jpg";
 			<a class="wb_button-primary"  href="http://demo.weblizar.com/admin-custom-login-pro/wp-login.php" target="_blank">View Demo</a>
 			<a class="wb_button-primary" href="https://weblizar.com/plugins/admin-custom-login-pro/" target="_blank">Buy Now $25</a>
 		</div>
-		<div class="plugin_vrsion"> <span> <b> 5.7 </b> Version  </span> </div>
+		<div class="plugin_vrsion"> <span> <b> 5.8 </b> Version  </span> </div>
 		</div>
 </div>
 </div>
